@@ -1,54 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shiny quartz Shop</title>
-    <link>https://Mok977.github.io/tags/</link>
-    <description>Recent content in Tags on Shiny quartz Shop</description>
+    <title>Tags on Shiny quartz</title>
+    <link>https://mok977.github.io/tags/</link>
+    <description>Recent content in Tags on Shiny quartz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2023 22:06:00 +0800</lastBuildDate><atom:link href="https://Mok977.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 09:06:00 +0800</lastBuildDate><atom:link href="https://mok977.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://Mok977.github.io/tags/game/</link>
-      <pubDate>Thu, 08 Jun 2023 22:06:00 +0800</pubDate>
+      <title>七脈輪與水晶</title>
+      <link>https://mok977.github.io/tags/%E4%B8%83%E8%84%88%E8%BC%AA%E8%88%87%E6%B0%B4%E6%99%B6/</link>
+      <pubDate>Sun, 09 Jul 2023 09:06:00 +0800</pubDate>
       
-      <guid>https://Mok977.github.io/tags/game/</guid>
+      <guid>https://mok977.github.io/tags/%E4%B8%83%E8%84%88%E8%BC%AA%E8%88%87%E6%B0%B4%E6%99%B6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://Mok977.github.io/tags/new/</link>
-      <pubDate>Thu, 08 Jun 2023 22:06:00 +0800</pubDate>
+      <title>Skeletal Quartz</title>
+      <link>https://mok977.github.io/tags/skeletal-quartz/</link>
+      <pubDate>Sat, 08 Jul 2023 22:06:00 +0800</pubDate>
       
-      <guid>https://Mok977.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://Mok977.github.io/tags/photos/</link>
-      <pubDate>Thu, 08 Jun 2023 22:06:00 +0800</pubDate>
-      
-      <guid>https://Mok977.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://Mok977.github.io/tags/python/</link>
-      <pubDate>Thu, 08 Jun 2023 22:06:00 +0800</pubDate>
-      
-      <guid>https://Mok977.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://Mok977.github.io/tags/react/</link>
-      <pubDate>Thu, 08 Jun 2023 22:06:00 +0800</pubDate>
-      
-      <guid>https://Mok977.github.io/tags/react/</guid>
+      <guid>https://mok977.github.io/tags/skeletal-quartz/</guid>
       <description></description>
     </item>
     
